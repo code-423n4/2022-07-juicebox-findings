@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "Lambda",
+  "address": "0xefc711b22f4fdbcbc221ac7c116e90c699d0b708",
+  "risk": "3",
+  "title": "https://github.com/jbx-protocol/juice-contracts-v2-code4rena/blob/733810a0339a5c0cb608345e6fc66a6edeac13cc/contracts/JBController.sol#L786",
+  "issueId": 31,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/31"
+}
