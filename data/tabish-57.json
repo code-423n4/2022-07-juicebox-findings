@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "tabish",
+  "address": "0xd6fcd2f85fe975bb9b0f3c1b1c6802bb09d33e43",
+  "risk": "2",
+  "title": "Chainlink's latestRoundData might return stale or incorrect results",
+  "issueId": 57,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/57"
+}
