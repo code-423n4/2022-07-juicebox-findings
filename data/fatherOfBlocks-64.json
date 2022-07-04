@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "fatherOfBlocks",
+  "address": "0xd5a2686b02a15b5269848dee6e913f07f459782e",
+  "risk": "2",
+  "title": "Lack of validating transfer of ERC20",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/64"
+}
