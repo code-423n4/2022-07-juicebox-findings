@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "n1punp",
+  "address": "0x878538eaa300e480e32df570f04fc13f223925c3",
+  "risk": "2",
+  "title": "JBToken not compatible with ERC20 standard",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/42"
+}
