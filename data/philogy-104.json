@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "philogy",
+  "address": "0x6F8794312146D4Ed2be8cB19D0F48C11da1628a2",
+  "risk": "3",
+  "title": "Token Change Can Be Frontrun, Blocking Token",
+  "issueId": 104,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/104"
+}
