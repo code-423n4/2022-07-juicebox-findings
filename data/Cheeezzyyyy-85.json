@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "Cheeezzyyyy",
+  "address": "0x67bab5762f03d184018d8f0978fa84117c41bb2f",
+  "risk": "3",
+  "title": "CHAINLINK’S LATESTROUNDDATA MIGHT RETURN STALE OR INCORRECT RESULTS",
+  "issueId": 85,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/85"
+}
