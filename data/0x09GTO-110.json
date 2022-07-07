@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "0x09GTO",
+  "address": "0xc25d46ed94533868c34fe1015c8e08e871d73ac3",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 110,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/110"
+}
