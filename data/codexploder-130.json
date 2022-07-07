@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "codexploder",
+  "address": "0x4f9c70c7f0480ffedefd32565fb05efd23d53726",
+  "risk": "2",
+  "title": "Fake balance can be added to any project",
+  "issueId": 130,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/130"
+}
