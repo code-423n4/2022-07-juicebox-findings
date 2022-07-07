@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "DimitarDimitrov",
+  "address": "0x6e8cd81029361d213b8d2d5b2d2064384618fd1f",
+  "risk": "2",
+  "title": "Can add price feed for currency and base and also for base and currency",
+  "issueId": 111,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/111"
+}
