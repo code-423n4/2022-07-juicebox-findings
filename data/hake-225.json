@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "hake",
+  "address": "0x14ca9669a2d8e353560b85474575c5ffde245220",
+  "risk": "3",
+  "title": "Unsafe `transferFrom()` might lead to loss of funds",
+  "issueId": 225,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/225"
+}
