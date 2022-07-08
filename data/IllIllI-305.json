@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "IllIllI",
+  "address": "0xCC6B0a35481EA40b60780B7c0294c6c29061038f",
+  "risk": "2",
+  "title": "Tokens can be minted for free if the token being used to pay for it, does not revert on failure",
+  "issueId": 305,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/305"
+}
