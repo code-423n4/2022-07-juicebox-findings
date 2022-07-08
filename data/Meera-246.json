@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "Meera",
+  "address": "0xa4b2ac8832c6062838e4c65fa6f23cd562d35c94",
+  "risk": "2",
+  "title": "Not calling `approve(0)` before setting a new approval causes the call to revert when used with Tether (USDT)",
+  "issueId": 246,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/246"
+}
