@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "cloudjunky",
+  "address": "0x429882f4ee6efef049ac273bf2abf89e6cb906b6",
+  "risk": "2",
+  "title": "Return values of .approve() not checked and using unsafe methods for ERC20 token approval",
+  "issueId": 171,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/171"
+}
