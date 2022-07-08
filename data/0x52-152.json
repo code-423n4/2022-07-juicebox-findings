@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "0x52",
+  "address": "0x522dffc539c264a8f7e0b91102e899b33f4dabc3",
+  "risk": "2",
+  "title": "_feeAmount returns incorrect fee if feeDiscount isn't 0 or JBConstants.MAX_FEE_DISCOUNT",
+  "issueId": 152,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/152"
+}
