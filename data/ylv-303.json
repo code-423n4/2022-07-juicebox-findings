@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "ylv",
+  "address": "0x48d21dc6bbf18288520e9384aa505015c26ea43c",
+  "risk": "2",
+  "title": "Payouts distribution can be deadlocked by setting high number of distribution splits on a project",
+  "issueId": 303,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/303"
+}
