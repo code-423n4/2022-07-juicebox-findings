@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "simon135",
+  "address": "0x7bfbabda21beebb17e284901bfc41e942f8128c8",
+  "risk": "2",
+  "title": "If msg.sender is not a contract or dosnt have  currency/tokens/decimals because alot of erc spec is optional  then users calls this function will revert ",
+  "issueId": 260,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/260"
+}
