@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "Limbooo",
+  "address": "0xc6f724a983644752b0c445f9e802475a50df666b",
+  "risk": "2",
+  "title": "`JBProjects.sol#createFor(...)` function is open to reentrancy attacks",
+  "issueId": 354,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/354"
+}
