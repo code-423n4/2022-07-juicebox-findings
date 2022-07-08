@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "2",
+  "title": "Possible token transfer fees are not taken into consideration",
+  "issueId": 169,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/169"
+}
