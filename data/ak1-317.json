@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "ak1",
+  "address": "0xf7a08c2c341bde5e17103d4780d1b465011a2a31",
+  "risk": "2",
+  "title": "Issue with condition check handling",
+  "issueId": 317,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/317"
+}
