@@ -1,0 +1,9 @@
+{
+  "contest": 143,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833d7dee997d7d347e2634c9cef",
+  "risk": "3",
+  "title": "Arbitrary msg.sender can execute recordPaymentFrom, recordRedemptionFor, recordDistributionFor, recordUsedAllowanceOf, recordAddedBalanceFor. Malicious terminal may be passed to inject logic to data store.",
+  "issueId": 238,
+  "issueUrl": "https://github.com/code-423n4/2022-07-juicebox-findings/issues/238"
+}
